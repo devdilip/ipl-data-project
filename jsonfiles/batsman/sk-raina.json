@@ -1,0 +1,82 @@
+[
+    {
+        "year": "2017",
+        "batsman": "SK Raina",
+        "run": 442,
+        "four": 42,
+        "six": 13,
+        "strikeRate": 142.58
+    },
+    {
+        "year": "2008",
+        "batsman": "SK Raina",
+        "run": 421,
+        "four": 35,
+        "six": 18,
+        "strikeRate": 138.49
+    },
+    {
+        "year": "2009",
+        "batsman": "SK Raina",
+        "run": 434,
+        "four": 37,
+        "six": 21,
+        "strikeRate": 136.48
+    },
+    {
+        "year": "2010",
+        "batsman": "SK Raina",
+        "run": 528,
+        "four": 45,
+        "six": 23,
+        "strikeRate": 136.43
+    },
+    {
+        "year": "2011",
+        "batsman": "SK Raina",
+        "run": 438,
+        "four": 36,
+        "six": 17,
+        "strikeRate": 130.75
+    },
+    {
+        "year": "2012",
+        "batsman": "SK Raina",
+        "run": 441,
+        "four": 36,
+        "six": 19,
+        "strikeRate": 131.64
+    },
+    {
+        "year": "2013",
+        "batsman": "SK Raina",
+        "run": 548,
+        "four": 50,
+        "six": 18,
+        "strikeRate": 148.11
+    },
+    {
+        "year": "2014",
+        "batsman": "SK Raina",
+        "run": 523,
+        "four": 51,
+        "six": 19,
+        "strikeRate": 141.35
+    },
+    {
+        "year": "2015",
+        "batsman": "SK Raina",
+        "run": 374,
+        "four": 31,
+        "six": 16,
+        "strikeRate": 117.24
+    },
+    {
+        "year": "2016",
+        "batsman": "SK Raina",
+        "run": 399,
+        "four": 39,
+        "six": 10,
+        "strikeRate": 124.30
+    }
+]

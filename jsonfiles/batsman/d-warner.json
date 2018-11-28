@@ -1,0 +1,82 @@
+[
+    {
+        "year": "2017",
+        "batsman": "DA Warner",
+        "run": 641,
+        "four": 63,
+        "six": 26,
+        "strikeRate": 138
+    },
+    {
+        "year": "2008",
+        "batsman": "DA Warner",
+        "run": 0,
+        "four": 0,
+        "six": 0,
+        "strikeRate": 0
+    },
+    {
+        "year": "2009",
+        "batsman": "DA Warner",
+        "run": 163,
+        "four": 16,
+        "six": 5,
+        "strikeRate": 118
+    },
+    {
+        "year": "2010",
+        "batsman": "DA Warner",
+        "run": 282,
+        "four": 27,
+        "six": 14,
+        "strikeRate": 144
+    },
+    {
+        "year": "2011",
+        "batsman": "DA Warner",
+        "run": 324,
+        "four": 34,
+        "six": 11,
+        "strikeRate": 115
+    },
+    {
+        "year": "2012",
+        "batsman": "DA Warner",
+        "run": 256,
+        "four": 28,
+        "six": 14,
+        "strikeRate": 159
+    },
+    {
+        "year": "2013",
+        "batsman": "DA Warner",
+        "run": 410,
+        "four": 41,
+        "six": 14,
+        "strikeRate": 123
+    },
+    {
+        "year": "2014",
+        "batsman": "DA Warner",
+        "run": 528,
+        "four": 39,
+        "six": 24,
+        "strikeRate": 136
+    },
+    {
+        "year": "2015",
+        "batsman": "DA Warner",
+        "run": 562,
+        "four": 65,
+        "six": 21,
+        "strikeRate": 152
+    },
+    {
+        "year": "2016",
+        "batsman": "DA Warner",
+        "run": 848,
+        "four": 88,
+        "six": 31,
+        "strikeRate": 146
+    }
+]

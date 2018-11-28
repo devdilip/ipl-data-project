@@ -1,0 +1,82 @@
+[
+    {
+        "year": "2017",
+        "batsman": "G Gambhir",
+        "run": 498,
+        "four": 62,
+        "six": 7,
+        "strikeRate": 122.96
+    },
+    {
+        "year": "2008",
+        "batsman": "G Gambhir",
+        "run": 534,
+        "four": 68,
+        "six": 8,
+        "strikeRate": 135.53
+    },
+    {
+        "year": "2009",
+        "batsman": "G Gambhir",
+        "run": 286,
+        "four": 32,
+        "six": 2,
+        "strikeRate": 101.06
+    },
+    {
+        "year": "2010",
+        "batsman": "G Gambhir",
+        "run": 277,
+        "four": 32,
+        "six": 2,
+        "strikeRate": 124.22
+    },
+    {
+        "year": "2011",
+        "batsman": "G Gambhir",
+        "run": 378,
+        "four": 44,
+        "six": 3,
+        "strikeRate": 113.86
+    },
+    {
+        "year": "2012",
+        "batsman": "G Gambhir",
+        "run": 590,
+        "four": 64,
+        "six": 17,
+        "strikeRate": 137.53
+    },
+    {
+        "year": "2013",
+        "batsman": "G Gambhir",
+        "run": 406,
+        "four": 51,
+        "six": 5,
+        "strikeRate": 114.69
+    },
+    {
+        "year": "2014",
+        "batsman": "G Gambhir",
+        "run": 335,
+        "four": 36,
+        "six": 4,
+        "strikeRate": 111.30
+    },
+    {
+        "year": "2015",
+        "batsman": "G Gambhir",
+        "run": 327,
+        "four": 41,
+        "six": 4,
+        "strikeRate": 113.54
+    },
+    {
+        "year": "2016",
+        "batsman": "G Gambhir",
+        "run": 501,
+        "four": 54,
+        "six": 6,
+        "strikeRate": 118.16
+    }
+]

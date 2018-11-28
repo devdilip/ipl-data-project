@@ -1,0 +1,82 @@
+[
+    {
+        "year": "2017",
+        "batsman": "Yuvraj Singh",
+        "run": 252,
+        "four": 30,
+        "six": 8,
+        "strikeRate": 134.04
+    },
+    {
+        "year": "2008",
+        "batsman": "Yuvraj Singh",
+        "run": 299,
+        "four": 24,
+        "six": 19,
+        "strikeRate": 156.54
+    },
+    {
+        "year": "2009",
+        "batsman": "Yuvraj Singh",
+        "run": 340,
+        "four": 25,
+        "six": 16,
+        "strikeRate": 107.26
+    },
+    {
+        "year": "2010",
+        "batsman": "Yuvraj Singh",
+        "run": 259,
+        "four": 21,
+        "six": 14,
+        "strikeRate": 125.73
+    },
+    {
+        "year": "2011",
+        "batsman": "Yuvraj Singh",
+        "run": 343,
+        "four": 24,
+        "six": 18,
+        "strikeRate": 127.51
+    },
+    {
+        "year": "2012",
+        "batsman": "Yuvraj Singh",
+        "run": 0,
+        "four": 0,
+        "six": 0,
+        "strikeRate": 0
+    },
+    {
+        "year": "2013",
+        "batsman": "Yuvraj Singh",
+        "run": 238,
+        "four": 14,
+        "six": 15,
+        "strikeRate": 123.32
+    },
+    {
+        "year": "2014",
+        "batsman": "Yuvraj Singh",
+        "run": 376,
+        "four": 22,
+        "six": 28,
+        "strikeRate": 130.56
+    },
+    {
+        "year": "2015",
+        "batsman": "Yuvraj Singh",
+        "run": 248,
+        "four": 23,
+        "six": 10,
+        "strikeRate": 115.35
+    },
+    {
+        "year": "2016",
+        "batsman": "Yuvraj Singh",
+        "run": 236,
+        "four": 22,
+        "six": 13,
+        "strikeRate": 128.96
+    }
+]

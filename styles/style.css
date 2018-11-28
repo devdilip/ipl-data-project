@@ -1,0 +1,67 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    grid-gap: 20px;
+}
+
+.header-items {
+    display: block;
+    padding: 12px;
+    color: purple;
+    font-weight: bolder;
+    font-size: 18px;
+    text-align: center;
+    background-image: url("../images/665217-final-ipl-2018.jpg");
+    object-fit: cover;
+    border: 2px solid purple;
+    cursor: pointer;
+}
+
+.header-container {
+    background-image: url("../images/Dubai-International-Cricket-Stadium.jpg");
+    height: 200px;
+    width: 100%;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+}
+.run-rate{
+    margin-top: 400px;
+    height: 350px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.title-of-chart,
+.title {
+    text-align: center;
+    margin: 30px;
+}
+
+.images {
+    height: 100%;
+    width: 49.8%;
+}
+
+#selectBox {
+    padding: 5px;
+    color: #000;
+    width: 15%;
+    background: transparent;
+    -webkit-appearance: none;
+}
+#select-player {
+    display: none;
+    margin-right: 20px;
+    justify-content: center;
+}
+span{
+    margin: 0px 20px;
+}

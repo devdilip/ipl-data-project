@@ -1,0 +1,82 @@
+[
+    {
+        "year": "2017",
+        "batsman": "V Sehwag",
+        "run": 0,
+        "four": 0,
+        "six": 0,
+        "strikeRate": 0
+    },
+    {
+        "year": "2008",
+        "batsman": "V Sehwag",
+        "run": 406,
+        "four": 46,
+        "six": 21,
+        "strikeRate": 177.29
+    },
+    {
+        "year": "2009",
+        "batsman": "V Sehwag",
+        "run": 198,
+        "four": 24,
+        "six": 7,
+        "strikeRate": 135.62
+    },
+    {
+        "year": "2010",
+        "batsman": "V Sehwag",
+        "run": 356,
+        "four": 47,
+        "six": 14,
+        "strikeRate": 156.83
+    },
+    {
+        "year": "2011",
+        "batsman": "V Sehwag",
+        "run": 424,
+        "four": 51,
+        "six": 18,
+        "strikeRate": 171.66
+    },
+    {
+        "year": "2012",
+        "batsman": "V Sehwag",
+        "run": 495,
+        "four": 57,
+        "six": 19,
+        "strikeRate": 156.15
+    },
+    {
+        "year": "2013",
+        "batsman": "V Sehwag",
+        "run": 295,
+        "four": 41,
+        "six": 6,
+        "strikeRate": 120.90
+    },
+    {
+        "year": "2014",
+        "batsman": "V Sehwag",
+        "run": 455,
+        "four": 56,
+        "six": 18,
+        "strikeRate": 136.23
+    },
+    {
+        "year": "2015",
+        "batsman": "V Sehwag",
+        "run": 99,
+        "four": 12,
+        "six": 3,
+        "strikeRate": 111.24
+    },
+    {
+        "year": "2016",
+        "batsman": "V Sehwag",
+        "run": 0,
+        "four": 0,
+        "six": 0,
+        "strikeRate": 0
+    }
+]

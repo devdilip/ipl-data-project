@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>IPL DataSet</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+
+<body>
+    <div class="header-container">
+        <p id="home" class="header-items" onclick="renderChart(this)">Home</p>
+        <p id="allMatchesPerSeason" class="header-items" onclick="renderChart(this)">All Matches Per Season</p>
+        <p id="winMatchperyear" class="header-items" onclick="renderChart(this)"> Matches Won Of All Teams Over All The Years</p>
+        <p id="extraRunPerTeam" class="header-items" onclick="renderChart(this)">Extra Runs conceded per team in 2016</p>
+        <p id="economicBowlerRate" class="header-items" onclick="renderChart(this)">Top Economical bowlers in 2015</p>
+        <p id="TopThree" class="header-items" onclick="renderChart(this)">Batsman Performance in IPL all Season</p>
+    </div>
+    <div class="title">
+        <h1 id="title-of-chart" class="title-of-chart">IPL - Indian Premier League</h1>
+    </div>
+    <div id="select-player">
+        <span>Select Batsman for their IPL Records </span>
+        <select id="selectBox" onchange="selectPlayer();">
+            <option value="v-kohli.json">Virat Kohli</option>
+            <option value="ab-de-villers.json">Ab De Villers</option>
+            <option value="d-warner.json">D Warner</option>
+            <option value="g-gambhir.json">G Gambhir</option>
+            <option value="msdhoni.json">M S Dhoni</option>
+            <option value="ra-jadeja.json">Ra Jadega</option>
+            <option value="s-dhawan.json">Sikhar Dhawan</option>
+            <option value="sk-raina.json">SK Raina</option>
+            <option value="g-gambhir.json">Gautam Gambhir</option>
+            <option value="v-sehwag.json">Virendra Sehwag</option>
+            <option value="yuvraj-singh.json">Yuuraj Singh</option>
+        </select>
+    </div>
+    <div id="chartContainer" class="container">
+        <img class="images" src="images/IPL-captains.jpeg">
+        <img class="images" src="images/IPL-captains.jpeg">
+    </div>
+    <div class="run-rate">
+        <div id="chartContainerFour" class="container"></div>
+        <div id="chartContainerSix" class="container"></div>
+    </div>
+    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+    <script src="scripts/highchartsWithJson.js"></script>
+</body>
+
+</html>

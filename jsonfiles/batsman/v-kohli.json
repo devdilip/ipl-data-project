@@ -1,0 +1,82 @@
+[
+    {
+        "year": "2017",
+        "batsman": "V Kohli",
+        "run": 308,
+        "four": 23,
+        "six": 11,
+        "strikeRate": 119.84
+    },
+    {
+        "year": "2008",
+        "batsman": "V Kohli",
+        "run": 165,
+        "four": 18,
+        "six": 4,
+        "strikeRate": 98.21
+    },
+    {
+        "year": "2009",
+        "batsman": "V Kohli",
+        "run": 246,
+        "four": 22,
+        "six": 8,
+        "strikeRate": 109.33
+    },
+    {
+        "year": "2010",
+        "batsman": "V Kohli",
+        "run": 307,
+        "four": 26,
+        "six": 12,
+        "strikeRate": 142.13
+    },
+    {
+        "year": "2011",
+        "batsman": "V Kohli",
+        "run": 557,
+        "four": 55,
+        "six": 16,
+        "strikeRate": 117.76
+    },
+    {
+        "year": "2012",
+        "batsman": "V Kohli",
+        "run": 364,
+        "four": 33,
+        "six": 10,
+        "strikeRate": 109.31
+    },
+    {
+        "year": "2013",
+        "batsman": "V Kohli",
+        "run": 639,
+        "four": 65,
+        "six": 22,
+        "strikeRate": 135.67
+    },
+    {
+        "year": "2014",
+        "batsman": "V Kohli",
+        "run": 359,
+        "four": 23,
+        "six": 16,
+        "strikeRate": 119.27
+    },
+    {
+        "year": "2015",
+        "batsman": "V Kohli",
+        "run": 505,
+        "four": 35,
+        "six": 23,
+        "strikeRate": 127.85
+    },
+    {
+        "year": "2016",
+        "batsman": "V Kohli",
+        "run": 973,
+        "four": 84,
+        "six": 38,
+        "strikeRate": 148.55
+    }
+]

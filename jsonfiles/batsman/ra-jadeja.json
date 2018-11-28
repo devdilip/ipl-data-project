@@ -1,0 +1,82 @@
+[
+    {
+        "year": "2017",
+        "batsman": "RA Jadeja",
+        "run": 158,
+        "four": 13,
+        "six": 4,
+        "strikeRate": 133.90
+    },
+    {
+        "year": "2008",
+        "batsman": "RA Jadeja",
+        "run": 135,
+        "four": 11,
+        "six": 6,
+        "strikeRate": 125.00
+    },
+    {
+        "year": "2009",
+        "batsman": "RA Jadeja",
+        "run": 295,
+        "four": 21,
+        "six": 6,
+        "strikeRate": 106.88
+    },
+    {
+        "year": "2010",
+        "batsman": "RA Jadeja",
+        "run": 0,
+        "four": 0,
+        "six": 0,
+        "strikeRate": 0
+    },
+    {
+        "year": "2011",
+        "batsman": "RA Jadeja",
+        "run": 283,
+        "four": 20,
+        "six": 14,
+        "strikeRate": 120.94
+    },
+    {
+        "year": "2012",
+        "batsman": "RA Jadeja",
+        "run": 191,
+        "four": 13,
+        "six": 9,
+        "strikeRate": 124.84
+    },
+    {
+        "year": "2013",
+        "batsman": "RA Jadeja",
+        "run": 201,
+        "four": 17,
+        "six": 6,
+        "strikeRate": 144.60
+    },
+    {
+        "year": "2014",
+        "batsman": "RA Jadeja",
+        "run": 146,
+        "four": 9,
+        "six": 5,
+        "strikeRate": 129.20
+    },
+    {
+        "year": "2015",
+        "batsman": "RA Jadeja",
+        "run": 132,
+        "four": 7,
+        "six": 3,
+        "strikeRate": 103.13
+    },
+    {
+        "year": "2016",
+        "batsman": "RA Jadeja",
+        "run": 191,
+        "four": 14,
+        "six": 4,
+        "strikeRate": 101.06
+    }
+]

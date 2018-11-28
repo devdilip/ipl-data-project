@@ -1,0 +1,82 @@
+[
+    {
+        "year": "2017",
+        "batsman": "AB de Villiers",
+        "run": 216,
+        "four": 12,
+        "six": 16,
+        "strikeRate": 126.32
+    },
+    {
+        "year": "2008",
+        "batsman": "AB de Villiers",
+        "run": 95,
+        "four": 5,
+        "six": 1,
+        "strikeRate": 95.00
+    },
+    {
+        "year": "2009",
+        "batsman": "AB de Villiers",
+        "run": 465,
+        "four": 39,
+        "six": 12,
+        "strikeRate": 129.53
+    },
+    {
+        "year": "2010",
+        "batsman": "AB de Villiers",
+        "run": 111,
+        "four": 7,
+        "six": 0,
+        "strikeRate": 90.24
+    },
+    {
+        "year": "2011",
+        "batsman": "AB de Villiers",
+        "run": 312,
+        "four": 21,
+        "six": 14,
+        "strikeRate": 125.81
+    },
+    {
+        "year": "2012",
+        "batsman": "AB de Villiers",
+        "run": 319,
+        "four": 26,
+        "six": 15,
+        "strikeRate": 157.14
+    },
+    {
+        "year": "2013",
+        "batsman": "AB de Villiers",
+        "run": 373,
+        "four": 34,
+        "six": 17,
+        "strikeRate": 165.04
+    },
+    {
+        "year": "2014",
+        "batsman": "AB de Villiers",
+        "run": 395,
+        "four": 26,
+        "six": 24,
+        "strikeRate": 154.90
+    },
+    {
+        "year": "2015",
+        "batsman": "AB de Villiers",
+        "run": 513,
+        "four": 60,
+        "six": 22,
+        "strikeRate": 169.87
+    },
+    {
+        "year": "2016",
+        "batsman": "AB de Villiers",
+        "run": 687,
+        "four": 57,
+        "six": 37,
+        "strikeRate": 165.54
+    }
+]
