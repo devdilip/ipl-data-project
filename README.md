@@ -2,11 +2,13 @@ This is IPL Data project, in which we had to fetch data from CSV files and displ
 
 #Clone this reporisotry
 
-*Install all dependency--
+#Install all dependency--
 ```npm install```
 
-*Start this project--
+#Install http-server in global
+``npm install -g http-server``
+#Start this project--
 ```http-server```
 
-*Test --
+#Test --
 ```npm test```
